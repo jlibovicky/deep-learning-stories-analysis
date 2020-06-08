@@ -1,0 +1,25 @@
+YEAR 2012
+===================
++ visually (1.000)
++ inference (1.000)
++ task (1.000)
++ outlook (1.000)
++ uncertain (1.000)
++ aware (1.000)
++ reason (1.000)
++ conscious (1.000)
++ disconnected (1.000)
++ confusion (1.000)
++ ahead (1.000)
++ embodiment (1.000)
++ viewpoint (1.000)
++ occupy (1.000)
++ foot (1.000)
++ likely (1.000)
++ sleeve (1.000)
++ ai (1.000)
++ boggle (1.000)
++ 2d (1.000)
+
+YEAR 2013
+===================

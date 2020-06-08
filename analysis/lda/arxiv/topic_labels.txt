@@ -1,0 +1,10 @@
+Bayesan methods
+task description
+neural net. architectures
+robotics
+natural language processing
+introduction
+machine vision
+neural networks
+algorithms
+machine learning

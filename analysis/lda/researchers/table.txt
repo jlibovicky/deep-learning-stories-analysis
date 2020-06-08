@@ -1,0 +1,21 @@
+\begin{tabular}{lp{.8\textwidth}}
+\toprule
+topic label & topic words and weights \\ \hline
+deep learning in general & network~{\small (.008)\}, image~{\small (.006)\}, word~{\small (.005)\}, deep~learning~{\small (.005)\}, neural~{\small (.005)\}, system~{\small (.004)\}, end~{\small (.004)\}, representation~{\small (.004)\}, include~{\small (.004)\}, label~{\small (.004)\}, data~{\small (.003)\}, graph~{\small (.003)\}, train~{\small (.003)\}, gpu~{\small (.003)\}, thing"
+~{\small (.003)\} \\
+computer vision & image~{\small (.010)\}, network~{\small (.008)\}, neural~{\small (.007)\}, include~{\small (.006)\}, function~{\small (.005)\}, deep~learning~{\small (.005)\}, convolution~{\small (.004)\}, representation~{\small (.004)\}, input~{\small (.004)\}, neuron~{\small (.004)\}, understand~{\small (.003)\}, kernel~{\small (.003)\}, think~{\small (.003)\}, system~{\small (.003)\}, paper"
+~{\small (.003)\} \\
+technical details & network~{\small (.006)\}, gpu~{\small (.005)\}, memory~{\small (.005)\}, paper~{\small (.004)\}, video~{\small (.004)\}, deep~learning~{\small (.004)\}, algorithm~{\small (.004)\}, thing~{\small (.003)\}, label~{\small (.003)\}, function~{\small (.003)\}, method~{\small (.003)\}, number~{\small (.003)\}, ne~{\small (.003)\}, want~{\small (.003)\}, feature"
+~{\small (.003)\} \\
+deep learning applications & image~{\small (.006)\}, word~{\small (.006)\}, neural~{\small (.005)\}, system~{\small (.005)\}, information~{\small (.005)\}, google~{\small (.005)\}, deep~learning~{\small (.004)\}, network~{\small (.004)\}, include~{\small (.004)\}, train~{\small (.004)\}, feature~{\small (.003)\}, task~{\small (.003)\}, language~{\small (.003)\}, code~{\small (.003)\}, robot"
+~{\small (.003)\} \\
+representation learning & feature~{\small (.007)\}, deep~learning~{\small (.006)\}, space~{\small (.005)\}, function~{\small (.005)\}, matrix~{\small (.004)\}, label~{\small (.004)\}, network~{\small (.004)\}, paper~{\small (.004)\}, give~{\small (.004)\}, let~{\small (.004)\}, operator~{\small (.004)\}, user~{\small (.003)\}, vector~{\small (.003)\}, data~{\small (.003)\}, case"
+~{\small (.003)\} \\
+naural language processing & language~{\small (.006)\}, network~{\small (.005)\}, gpu~{\small (.005)\}, word~{\small (.005)\}, representation~{\small (.004)\}, give~{\small (.004)\}, deep~learning~{\small (.004)\}, think~{\small (.004)\}, space~{\small (.004)\}, cluster~{\small (.004)\}, neural~{\small (.004)\}, user~{\small (.003)\}, graph~{\small (.003)\}, thing~{\small (.003)\}, image"
+~{\small (.003)\} \\
+model training & network~{\small (.007)\}, label~{\small (.007)\}, image~{\small (.007)\}, feature~{\small (.005)\}, method~{\small (.005)\}, function~{\small (.005)\}, input~{\small (.004)\}, deep~learning~{\small (.004)\}, training~{\small (.004)\}, let~{\small (.004)\}, solution~{\small (.004)\}, train~{\small (.004)\}, class~{\small (.003)\}, number~{\small (.003)\}, paper"
+~{\small (.003)\} \\
+model architecture & image~{\small (.013)\}, network~{\small (.009)\}, neuron~{\small (.008)\}, deep~learning~{\small (.006)\}, brain~{\small (.006)\}, information~{\small (.005)\}, word~{\small (.005)\}, neural~{\small (.005)\}, think~{\small (.005)\}, representation~{\small (.004)\}, system~{\small (.004)\}, convolutional~{\small (.004)\}, language~{\small (.004)\}, feature~{\small (.003)\}, layer"
+~{\small (.003)\} \\
+\bottomrule
+\end{tabular}

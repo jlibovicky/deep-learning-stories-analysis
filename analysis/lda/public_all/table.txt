@@ -1,0 +1,45 @@
+\begin{tabular}{lp{.8\textwidth}}
+\toprule
+topic label & topic words and weights \\ \hline
+social networks & site~{\small (.020)\}, facebook~{\small (.019)\}, content~{\small (.015)\}, link~{\small (.015)\}, article~{\small (.014)\}, search~{\small (.013)\}, post~{\small (.013)\}, user~{\small (.013)\}, twitter~{\small (.012)\}, social~{\small (.011)\}, page~{\small (.011)\}, follow~{\small (.010)\}, reproduce~{\small (.010)\}, report~{\small (.010)\}, ad"
+~{\small (.009)\} \\
+education & student~{\small (.013)\}, school~{\small (.011)\}, program~{\small (.008)\}, help~{\small (.006)\}, world~{\small (.006)\}, country~{\small (.006)\}, people~{\small (.006)\}, child~{\small (.006)\}, science~{\small (.006)\}, community~{\small (.006)\}, job~{\small (.005)\}, tech~{\small (.005)\}, education~{\small (.005)\}, project~{\small (.005)\}, high"
+~{\small (.005)\} \\
+natural sciences & faulty~{\small (.009)\}, patent~{\small (.009)\}, slide~{\small (.007)\}, eruption~{\small (.006)\}, volcano~{\small (.005)\}, mars~{\small (.005)\}, one~{\small (.004)\}, look~{\small (.004)\}, cover~{\small (.004)\}, right~{\small (.003)\}, surface~{\small (.003)\}, rock~{\small (.003)\}, two~{\small (.003)\}, long~{\small (.003)\}, sound"
+~{\small (.003)\} \\
+events & event~{\small (.019)\}, launch~{\small (.010)\}, win~{\small (.008)\}, team~{\small (.008)\}, stage~{\small (.008)\}, wired~{\small (.007)\}, first~{\small (.006)\}, rocket~{\small (.006)\}, winner~{\small (.006)\}, conference~{\small (.005)\}, bird~{\small (.005)\}, navy~{\small (.005)\}, include~{\small (.005)\}, panel~{\small (.004)\}, talk"
+~{\small (.004)\} \\
+Apple & apple~{\small (.032)\}, iphone~{\small (.014)\}, ipad~{\small (.013)\}, code~{\small (.012)\}, device~{\small (.012)\}, version~{\small (.011)\}, system~{\small (.011)\}, google~{\small (.011)\}, software~{\small (.010)\}, developer~{\small (.009)\}, use~{\small (.008)\}, browser~{\small (.008)\}, update~{\small (.008)\}, release~{\small (.007)\}, computer"
+~{\small (.007)\} \\
+films and TV shows & caption~{\small (.072)\}, movie~{\small (.019)\}, film~{\small (.017)\}, slide~{\small (.012)\}, photo~{\small (.010)\}, kid~{\small (.009)\}, character~{\small (.008)\}, series~{\small (.008)\}, star~{\small (.008)\}, episode~{\small (.007)\}, child~{\small (.006)\}, 2~{\small (.005)\}, 3~{\small (.005)\}, comic~{\small (.005)\}, scene"
+~{\small (.005)\} \\
+market & report~{\small (.014)\}, market~{\small (.011)\}, number~{\small (.010)\}, sale~{\small (.008)\}, year~{\small (.008)\}, increase~{\small (.008)\}, price~{\small (.008)\}, high~{\small (.007)\}, sell~{\small (.007)\}, china~{\small (.007)\}, accord~{\small (.006)\}, continue~{\small (.006)\}, grow~{\small (.006)\}, expect~{\small (.006)\}, large"
+~{\small (.005)\} \\
+media & music~{\small (.030)\}, tv~{\small (.023)\}, song~{\small (.015)\}, service~{\small (.013)\}, content~{\small (.012)\}, stream~{\small (.011)\}, cable~{\small (.010)\}, amazon~{\small (.009)\}, watch~{\small (.009)\}, netflix~{\small (.008)\}, television~{\small (.008)\}, listen~{\small (.007)\}, internet~{\small (.007)\}, album~{\small (.007)\}, movie"
+~{\small (.007)\} \\
+other sciences & study~{\small (.012)\}, datum~{\small (.012)\}, researcher~{\small (.010)\}, human~{\small (.010)\}, research~{\small (.009)\}, scientist~{\small (.009)\}, science~{\small (.007)\}, test~{\small (.006)\}, system~{\small (.006)\}, find~{\small (.006)\}, brain~{\small (.005)\}, cell~{\small (.005)\}, result~{\small (.005)\}, use~{\small (.005)\}, health"
+~{\small (.005)\} \\
+online shopping & e~{\small (.021)\}, store~{\small (.019)\}, sell~{\small (.015)\}, buy~{\small (.012)\}, online~{\small (.012)\}, item~{\small (.011)\}, sale~{\small (.008)\}, shoe~{\small (.007)\}, shop~{\small (.007)\}, amazon~{\small (.007)\}, faulty~{\small (.007)\}, purchase~{\small (.007)\}, site~{\small (.006)\}, price~{\small (.006)\}, retailer"
+~{\small (.006)\} \\
+startups & money~{\small (.018)\}, fund~{\small (.014)\}, startup~{\small (.014)\}, raise~{\small (.013)\}, investor~{\small (.013)\}, kickstarter~{\small (.011)\}, funding~{\small (.010)\}, founder~{\small (.009)\}, venture~{\small (.009)\}, firm~{\small (.009)\}, fossil~{\small (.008)\}, investment~{\small (.008)\}, business~{\small (.008)\}, market~{\small (.008)\}, round"
+~{\small (.007)\} \\
+YouTube & video~{\small (.091)\}, content~{\small (.021)\}, create~{\small (.014)\}, youtube~{\small (.012)\}, format~{\small (.010)\}, digital~{\small (.009)\}, platform~{\small (.008)\}, watch~{\small (.008)\}, live~{\small (.008)\}, medium~{\small (.008)\}, artist~{\small (.007)\}, creator~{\small (.007)\}, interactive~{\small (.007)\}, experience~{\small (.007)\}, project"
+~{\small (.006)\} \\
+mobile applications & app~{\small (.062)\}, photo~{\small (.034)\}, user~{\small (.016)\}, apps~{\small (.012)\}, feature~{\small (.011)\}, use~{\small (.009)\}, phone~{\small (.008)\}, screen~{\small (.008)\}, ios~{\small (.008)\}, let~{\small (.006)\}, mobile~{\small (.006)\}, want~{\small (.006)\}, text~{\small (.006)\}, tap~{\small (.006)\}, way"
+~{\small (.006)\} \\
+other & people~{\small (.012)\}, think~{\small (.012)\}, thing~{\small (.011)\}, know~{\small (.010)\}, good~{\small (.010)\}, book~{\small (.009)\}, go~{\small (.009)\}, way~{\small (.008)\}, want~{\small (.008)\}, get~{\small (.007)\}, one~{\small (.006)\}, come~{\small (.006)\}, look~{\small (.005)\}, find~{\small (.005)\}, story"
+~{\small (.005)\} \\
+computer games & game~{\small (.065)\}, play~{\small (.026)\}, player~{\small (.016)\}, character~{\small (.007)\}, fan~{\small (.007)\}, card~{\small (.006)\}, world~{\small (.005)\}, puzzle~{\small (.004)\}, good~{\small (.004)\}, sport~{\small (.004)\}, one~{\small (.004)\}, fun~{\small (.004)\}, gaming~{\small (.004)\}, level~{\small (.004)\}, get"
+~{\small (.004)\} \\
+legal & government~{\small (.008)\}, case~{\small (.007)\}, law~{\small (.007)\}, security~{\small (.006)\}, attack~{\small (.006)\}, report~{\small (.005)\}, court~{\small (.005)\}, information~{\small (.004)\}, issue~{\small (.004)\}, state~{\small (.004)\}, public~{\small (.004)\}, internet~{\small (.004)\}, claim~{\small (.004)\}, agency~{\small (.004)\}, u.s."
+~{\small (.004)\} \\
+cars & car~{\small (.053)\}, vehicle~{\small (.017)\}, drive~{\small (.015)\}, driver~{\small (.014)\}, card~{\small (.012)\}, road~{\small (.010)\}, bike~{\small (.009)\}, ride~{\small (.009)\}, wheel~{\small (.009)\}, system~{\small (.008)\}, credit~{\small (.007)\}, electric~{\small (.006)\}, uber~{\small (.006)\}, bitcoin~{\small (.006)\}, money"
+~{\small (.006)\} \\
+mobile devices & phone~{\small (.033)\}, device~{\small (.033)\}, microsoft~{\small (.029)\}, mobile~{\small (.027)\}, tablet~{\small (.021)\}, smartphone~{\small (.017)\}, network~{\small (.015)\}, internet~{\small (.014)\}, windows~{\small (.012)\}, carrier~{\small (.011)\}, consumer~{\small (.009)\}, android~{\small (.008)\}, pc~{\small (.008)\}, google~{\small (.008)\}, market"
+~{\small (.007)\} \\
+hardware & camera~{\small (.009)\}, design~{\small (.009)\}, good~{\small (.008)\}, look~{\small (.007)\}, screen~{\small (.007)\}, device~{\small (.007)\}, display~{\small (.007)\}, battery~{\small (.007)\}, wired~{\small (.006)\}, use~{\small (.005)\}, power~{\small (.005)\}, phone~{\small (.005)\}, come~{\small (.005)\}, photo~{\small (.004)\}, slide"
+~{\small (.004)\} \\
+Google & google~{\small (.018)\}, send~{\small (.014)\}, contact~{\small (.014)\}, email~{\small (.013)\}, day~{\small (.012)\}, friend~{\small (.011)\}, answer~{\small (.011)\}, want~{\small (.011)\}, mail~{\small (.011)\}, people~{\small (.008)\}, list~{\small (.008)\}, find~{\small (.007)\}, message~{\small (.007)\}, check~{\small (.007)\}, puzzle"
+~{\small (.006)\} \\
+\bottomrule
+\end{tabular}

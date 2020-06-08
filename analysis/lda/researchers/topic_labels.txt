@@ -1,0 +1,8 @@
+deep learning in general
+computer vision
+technical details
+deep learning applications
+representation learning
+naural language processing
+model training
+model architecture

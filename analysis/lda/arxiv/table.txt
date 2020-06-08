@@ -1,0 +1,25 @@
+\begin{tabular}{lp{.8\textwidth}}
+\toprule
+topic label & topic words and weights \\ \hline
+Bayesan methods & model~{\small (.012)\}, probability~{\small (.010)\}, system~{\small (.010)\}, paper~{\small (.009)\}, set~{\small (.009)\}, inference~{\small (.009)\}, belief~{\small (.009)\}, base~{\small (.008)\}, probabilistic~{\small (.007)\}, logic~{\small (.007)\}, theory~{\small (.006)\}, knowledge~{\small (.006)\}, reasoning~{\small (.006)\}, decision~{\small (.005)\}, approach"
+~{\small (.005)\} \\
+task description & object~{\small (.022)\}, method~{\small (.022)\}, propose~{\small (.013)\}, base~{\small (.011)\}, model~{\small (.010)\}, approach~{\small (.010)\}, detection~{\small (.010)\}, problem~{\small (.009)\}, paper~{\small (.008)\}, state~{\small (.007)\}, cluster~{\small (.007)\}, segmentation~{\small (.007)\}, feature~{\small (.007)\}, result~{\small (.007)\}, clustering"
+~{\small (.007)\} \\
+neural net. architectures & network~{\small (.045)\}, neural~{\small (.010)\}, algorithm~{\small (.010)\}, system~{\small (.006)\}, result~{\small (.006)\}, neuron~{\small (.006)\}, time~{\small (.006)\}, propose~{\small (.006)\}, implementation~{\small (.005)\}, paper~{\small (.005)\}, datum~{\small (.005)\}, model~{\small (.005)\}, base~{\small (.005)\}, large~{\small (.005)\}, method"
+~{\small (.005)\} \\
+robotics & system~{\small (.021)\}, base~{\small (.012)\}, datum~{\small (.010)\}, method~{\small (.010)\}, time~{\small (.008)\}, present~{\small (.007)\}, camera~{\small (.007)\}, sensor~{\small (.007)\}, human~{\small (.006)\}, paper~{\small (.006)\}, approach~{\small (.006)\}, algorithm~{\small (.006)\}, real~{\small (.005)\}, feature~{\small (.005)\}, use"
+~{\small (.005)\} \\
+natural language processing & language~{\small (.022)\}, word~{\small (.020)\}, base~{\small (.015)\}, semantic~{\small (.015)\}, model~{\small (.013)\}, text~{\small (.012)\}, system~{\small (.009)\}, approach~{\small (.009)\}, information~{\small (.008)\}, sentence~{\small (.008)\}, paper~{\small (.007)\}, query~{\small (.007)\}, ontology~{\small (.007)\}, result~{\small (.006)\}, representation"
+~{\small (.006)\} \\
+introduction & method~{\small (.016)\}, algorithm~{\small (.015)\}, problem~{\small (.012)\}, propose~{\small (.010)\}, model~{\small (.008)\}, function~{\small (.008)\}, base~{\small (.007)\}, image~{\small (.006)\}, result~{\small (.006)\}, space~{\small (.006)\}, matrix~{\small (.006)\}, non~{\small (.005)\}, paper~{\small (.005)\}, datum~{\small (.005)\}, approach"
+~{\small (.005)\} \\
+machine vision & image~{\small (.058)\}, feature~{\small (.016)\}, method~{\small (.016)\}, propose~{\small (.013)\}, base~{\small (.012)\}, face~{\small (.011)\}, recognition~{\small (.010)\}, paper~{\small (.007)\}, result~{\small (.007)\}, approach~{\small (.007)\}, technique~{\small (.005)\}, detection~{\small (.005)\}, visual~{\small (.005)\}, classification~{\small (.005)\}, different"
+~{\small (.005)\} \\
+neural networks & network~{\small (.030)\}, neural~{\small (.018)\}, deep~{\small (.016)\}, model~{\small (.015)\}, recognition~{\small (.013)\}, video~{\small (.011)\}, layer~{\small (.010)\}, convolutional~{\small (.009)\}, sequence~{\small (.009)\}, task~{\small (.008)\}, state~{\small (.008)\}, performance~{\small (.008)\}, architecture~{\small (.008)\}, train~{\small (.008)\}, propose"
+~{\small (.007)\} \\
+algorithms & problem~{\small (.021)\}, algorithm~{\small (.020)\}, search~{\small (.007)\}, time~{\small (.007)\}, agent~{\small (.007)\}, model~{\small (.007)\}, decision~{\small (.007)\}, function~{\small (.007)\}, paper~{\small (.007)\}, approach~{\small (.007)\}, result~{\small (.007)\}, solution~{\small (.007)\}, base~{\small (.007)\}, solve~{\small (.006)\}, value"
+~{\small (.006)\} \\
+machine learning & model~{\small (.036)\}, learn~{\small (.028)\}, learning~{\small (.017)\}, datum~{\small (.014)\}, network~{\small (.010)\}, method~{\small (.010)\}, domain~{\small (.010)\}, training~{\small (.010)\}, representation~{\small (.009)\}, task~{\small (.009)\}, class~{\small (.009)\}, propose~{\small (.008)\}, approach~{\small (.008)\}, feature~{\small (.007)\}, classification"
+~{\small (.007)\} \\
+\bottomrule
+\end{tabular}

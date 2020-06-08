@@ -1,0 +1,35 @@
+\begin{tabular}{lp{.8\textwidth}}
+\toprule
+topic label & topic words and weights \\ \hline
+Google: research & google~{\small (.013)\}, search~{\small (.009)\}, computer~{\small (.008)\}, research~{\small (.007)\}, project~{\small (.006)\}, image~{\small (.005)\}, problem~{\small (.005)\}, think~{\small (.005)\}, ai~{\small (.005)\}, video~{\small (.005)\}, system~{\small (.005)\}, go~{\small (.004)\}, facebook~{\small (.004)\}, internet~{\small (.004)\}, researcher"
+~{\small (.004)\} \\
+AI vs. humans & ai~{\small (.018)\}, human~{\small (.007)\}, computer~{\small (.007)\}, think~{\small (.005)\}, system~{\small (.005)\}, user~{\small (.005)\}, real~{\small (.004)\}, startup~{\small (.004)\}, software~{\small (.004)\}, program~{\small (.004)\}, health~{\small (.004)\}, app~{\small (.004)\}, image~{\small (.003)\}, consumer~{\small (.003)\}, intelligent"
+~{\small (.003)\} \\
+IT business and advertisement & business~{\small (.005)\}, service~{\small (.005)\}, software~{\small (.005)\}, product~{\small (.004)\}, ad~{\small (.004)\}, acquisition~{\small (.004)\}, google~{\small (.004)\}, startup~{\small (.004)\}, thing~{\small (.004)\}, platform~{\small (.004)\}, machine~learning~{\small (.004)\}, customer~{\small (.004)\}, know~{\small (.004)\}, system~{\small (.003)\}, create"
+~{\small (.003)\} \\
+AI research & human~{\small (.011)\}, computer~{\small (.009)\}, robot~{\small (.009)\}, google~{\small (.008)\}, ai~{\small (.007)\}, car~{\small (.006)\}, thing~{\small (.006)\}, learn~{\small (.005)\}, think~{\small (.005)\}, play~{\small (.005)\}, game~{\small (.005)\}, tech~{\small (.005)\}, system~{\small (.005)\}, smart~{\small (.005)\}, deepmind"
+~{\small (.004)\} \\
+AI products & robot~{\small (.007)\}, ai~{\small (.005)\}, platform~{\small (.005)\}, human~{\small (.005)\}, user~{\small (.004)\}, video~{\small (.004)\}, software~{\small (.004)\}, computer~{\small (.004)\}, want~{\small (.004)\}, system~{\small (.004)\}, machine~learning~{\small (.003)\}, make~{\small (.003)\}, project~{\small (.003)\}, board~{\small (.003)\}, application"
+~{\small (.003)\} \\
+computer software & app~{\small (.014)\}, user~{\small (.008)\}, google~{\small (.008)\}, computer~{\small (.007)\}, system~{\small (.007)\}, service~{\small (.006)\}, phone~{\small (.005)\}, human~{\small (.005)\}, charge~{\small (.005)\}, startup~{\small (.004)\}, language~{\small (.004)\}, take~{\small (.004)\}, search~{\small (.004)\}, image~{\small (.004)\}, feature"
+~{\small (.003)\} \\
+mobile software & app~{\small (.014)\}, service~{\small (.011)\}, user~{\small (.010)\}, platform~{\small (.008)\}, mobile~{\small (.005)\}, startup~{\small (.005)\}, launch~{\small (.005)\}, cloud~{\small (.005)\}, apps~{\small (.005)\}, password~{\small (.005)\}, application~{\small (.005)\}, login~{\small (.005)\}, add~{\small (.005)\}, email~{\small (.004)\}, website"
+~{\small (.004)\} \\
+Google: mobile phones & google~{\small (.010)\}, search~{\small (.007)\}, mobile~{\small (.006)\}, user~{\small (.005)\}, answer~{\small (.005)\}, economic~{\small (.005)\}, digital~{\small (.004)\}, thing~{\small (.004)\}, business~{\small (.004)\}, human~{\small (.004)\}, age~{\small (.004)\}, learn~{\small (.004)\}, microsoft~{\small (.004)\}, device~{\small (.004)\}, network"
+~{\small (.004)\} \\
+robotics & robot~{\small (.019)\}, robotic~{\small (.009)\}, consumer~{\small (.006)\}, platform~{\small (.005)\}, service~{\small (.005)\}, human~{\small (.005)\}, team~{\small (.005)\}, ai~{\small (.005)\}, system~{\small (.005)\}, business~{\small (.004)\}, thing~{\small (.004)\}, computer~{\small (.004)\}, example~{\small (.004)\}, form~{\small (.004)\}, hardware"
+~{\small (.004)\} \\
+Microsoft and Nokia & nokia~{\small (.015)\}, microsoft~{\small (.014)\}, service~{\small (.006)\}, product~{\small (.006)\}, osmo~{\small (.005)\}, go~{\small (.005)\}, search~{\small (.004)\}, future~{\small (.004)\}, business~{\small (.004)\}, cloud~{\small (.004)\}, big~{\small (.004)\}, nadella~{\small (.004)\}, system~{\small (.004)\}, platform~{\small (.004)\}, need"
+~{\small (.004)\} \\
+Google: search & google~{\small (.026)\}, search~{\small (.012)\}, answer~{\small (.007)\}, mobile~{\small (.005)\}, user~{\small (.005)\}, card~{\small (.005)\}, ai~{\small (.004)\}, computer~{\small (.004)\}, think~{\small (.004)\}, voice~{\small (.004)\}, result~{\small (.004)\}, common~{\small (.004)\}, want~{\small (.004)\}, language~{\small (.004)\}, recognition"
+~{\small (.004)\} \\
+end users & health~{\small (.005)\}, software~{\small (.005)\}, consumer~{\small (.005)\}, ai~{\small (.004)\}, tech~{\small (.004)\}, business~{\small (.004)\}, startup~{\small (.004)\}, system~{\small (.003)\}, service~{\small (.003)\}, drive~{\small (.003)\}, google~{\small (.003)\}, big~{\small (.003)\}, apple~{\small (.003)\}, open~{\small (.003)\}, life"
+~{\small (.003)\} \\
+startups & startup~{\small (.008)\}, facebook~{\small (.006)\}, product~{\small (.006)\}, founder~{\small (.005)\}, tech~{\small (.005)\}, think~{\small (.005)\}, user~{\small (.005)\}, game~{\small (.005)\}, big~{\small (.004)\}, share~{\small (.004)\}, app~{\small (.004)\}, google~{\small (.004)\}, post~{\small (.004)\}, ai~{\small (.004)\}, business"
+~{\small (.004)\} \\
+Facebook & search~{\small (.009)\}, post~{\small (.009)\}, facebook~{\small (.008)\}, google~{\small (.006)\}, know~{\small (.005)\}, news~{\small (.005)\}, system~{\small (.005)\}, find~{\small (.005)\}, friend~{\small (.004)\}, computer~{\small (.004)\}, sense~{\small (.004)\}, human~{\small (.004)\}, image~{\small (.004)\}, result~{\small (.004)\}, share"
+~{\small (.004)\} \\
+IT business & business~{\small (.006)\}, service~{\small (.005)\}, platform~{\small (.004)\}, image~{\small (.004)\}, know~{\small (.004)\}, want~{\small (.004)\}, find~{\small (.004)\}, startup~{\small (.004)\}, thing~{\small (.004)\}, leak~{\small (.003)\}, consumer~{\small (.003)\}, human~{\small (.003)\}, ai~{\small (.003)\}, software~{\small (.003)\}, system"
+~{\small (.003)\} \\
+\bottomrule
+\end{tabular}
